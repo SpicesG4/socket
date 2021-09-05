@@ -1,0 +1,23 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpicesG4/socket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpicesG4/socket/issues"
+  },
+  "homepage": "https://github.com/SpicesG4/socket#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "socket.io": "^4.2.0"
+  }
+}
