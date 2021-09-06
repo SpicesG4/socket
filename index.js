@@ -1,5 +1,5 @@
 PORT=process.env.PORT|| 8900
-URLS=process.env.URL||"http://localhost:3000"
+URLS="https://brave-mcclintock-fa22ac.netlify.app"
 
 const io = require("socket.io")(PORT, {
     cors: {
